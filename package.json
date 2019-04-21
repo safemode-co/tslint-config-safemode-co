@@ -11,7 +11,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trucknet-io/tslint-config-trucknet-io.git"
+    "url": "git+https://github.com/safemode-co/tslint-config-safemode-co.git"
   },
   "author": "dsemennyuk",
   "devDependencies": {
